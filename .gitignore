@@ -73,5 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Village/Materials/*
-Content/Village/Textures/*
+Content/Village/Materials/**
+Content/Village/Textures/**
